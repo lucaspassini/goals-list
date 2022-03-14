@@ -6,8 +6,7 @@
 
 ## 📕 About
 
-A goals list made with React.js, it has a dark mode template and minimalist design for a
-modern approach.
+A goals list made with React.js.
 
 ## 🧑🏻‍💻 Installation
 
